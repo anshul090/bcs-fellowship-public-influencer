@@ -28,15 +28,12 @@ Below are **a few recent examples** of my public engagements, selected to illust
 
 ## ✍️ Public Thought Leadership on LinkedIn
 
-In addition to judging and mentoring, I regularly share applied AI insights and best practices with the broader professional community through technical writing. Below are two recent examples:
+I regularly share applied AI insights and best practices through public writing. Below are examples of my technical articles shared with the broader professional community:
 
-- **📚 Agentic AI: 4 Types of Memory (STM, LTM, Episodic, Semantic)**  
-  Explains cognitive memory structures in AI agents and the challenges of scaling memory systems in multi-tenant GenAI environments.  
-  🔗 [Read the post](https://www.linkedin.com/posts/activity-7311591374456332288-pmTT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKaigYBYG4T7qvUjWA97-RvYNa8X7NPCnU)
+- [📚 4 Types of Memory in Agentic AI (STM, LTM, Episodic, Semantic)](https://www.linkedin.com/posts/activity-7311591374456332288-pmTT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKaigYBYG4T7qvUjWA97-RvYNa8X7NPCnU)
 
-- **🛠 No Fluff ML Series (Part 5/10): 6 Bad Practices in Managing Large-Scale ML Codebases**  
-  A practical guide for ML engineers focused on maintainability, security, data validation, and observability in production ML systems.  
-  🔗 [Read the post](https://www.linkedin.com/posts/activity-7309328516909543426-tWDL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKaigYBYG4T7qvUjWA97-RvYNa8X7NPCnU)
+- [🛠 No Fluff ML Series (Part 5/10): 6 Bad Practices in Managing Large-Scale ML Codebases](https://www.linkedin.com/posts/activity-7309328516909543426-tWDL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKaigYBYG4T7qvUjWA97-RvYNa8X7NPCnU)
+
 
 ---
 
