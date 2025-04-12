@@ -1,1 +1,28 @@
-# bcs-fellowship-public-influencer
+# Anshul Gandhi – Public Influencer Contributions
+
+As part of my broader contributions to the AI and technology community, I’ve served as a **judge and mentor** at multiple public hackathons and innovation events. These engagements reflect my commitment to supporting ethical AI development, inspiring the next generation of technologists, and shaping how real-world AI is evaluated and applied.
+
+## 🎓 UWB Hacks: Save The World (ACM-affiliated)
+
+- **Event**: UWB Hacks – Save The World!
+- **Affiliation**: ACM and University of Washington Bothell
+- **Role**: Judge and Mentor
+- **Scope**: Evaluated and guided socially impactful AI and tech solutions from university innovators
+- **Official Event Page**: [https://uwb-hacks-save-the-world.devpost.com/](https://uwb-hacks-save-the-world.devpost.com/)
+
+## 🌐 Fetch.ai – Global AI Agents League
+
+- **Event**: Global AI Agents League – Innovation Lab
+- **Host**: Fetch.ai
+- **Role**: Hackathon Judge
+- **Scope**: Evaluated autonomous multi-agent systems and generative AI applications in finance, commerce, and sustainability
+- **Official Event Page**: [https://innovationlab.fetch.ai/events/global-ai-agents-league](https://innovationlab.fetch.ai/events/global-ai-agents-league)
+
+---
+
+These public-facing roles have enabled me to:
+- Share insights on scalable, responsible AI practices  
+- Encourage adoption of fairness, explainability, and performance trade-offs in applied GenAI  
+- Recognize and support innovation among startups, researchers, and early-career engineers  
+
+Through these activities, I continue to influence the responsible advancement and application of AI technologies in alignment with broader societal and professional standards.
