@@ -9,7 +9,7 @@ Below are **a few recent examples** of my public engagements, selected to illust
 ## 🎓 UWB Hacks: Save The World (ACM-affiliated)
 
 - **Event**: UWB Hacks – Save The World!
-- **Affiliation**: ACM and University of Washington Bothell
+- **Affiliation**: Organized by the UWB chapter of the Association for Computing Machinery (ACM), part of the University of Washington Bothell  
 - **Role**: Judge and Mentor
 - **Scope**: Evaluated and guided socially impactful AI and tech solutions from university innovators
 - **Official Event Page**: [https://uwb-hacks-save-the-world.devpost.com/](https://uwb-hacks-save-the-world.devpost.com/)
