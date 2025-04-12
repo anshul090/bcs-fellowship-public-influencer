@@ -1,6 +1,10 @@
 # Anshul Gandhi – Public Influencer Contributions
 
-As part of my broader contributions to the AI and technology community, I’ve served as a **judge and mentor** at multiple public hackathons and innovation events. These engagements reflect my commitment to supporting ethical AI development, inspiring the next generation of technologists, and shaping how real-world AI is evaluated and applied.
+As part of my broader contributions to the AI and technology community, I’ve served as a **judge and mentor** at numerous public hackathons and innovation events over the years.
+
+Below are **a few recent examples** of my public engagements, selected to illustrate my ongoing commitment to community impact, responsible AI, and industry mentorship.
+
+---
 
 ## 🎓 UWB Hacks: Save The World (ACM-affiliated)
 
@@ -9,6 +13,8 @@ As part of my broader contributions to the AI and technology community, I’ve s
 - **Role**: Judge and Mentor
 - **Scope**: Evaluated and guided socially impactful AI and tech solutions from university innovators
 - **Official Event Page**: [https://uwb-hacks-save-the-world.devpost.com/](https://uwb-hacks-save-the-world.devpost.com/)
+
+---
 
 ## 🌐 Fetch.ai – Global AI Agents League
 
