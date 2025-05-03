@@ -1,38 +1,55 @@
-# Anshul Gandhi – Public Engagements and Thought Leadership
+# Anshul Gandhi – Public Engagements, Thought Leadership and AI Literacy Advocacy
 
 As part of my broader contributions to the AI and technology community, I’ve served as a **judge and mentor** at numerous public hackathons and innovation events over the years.
 
+## Public Engagements
 Below are a few recent examples of my public engagements, illustrating my ongoing commitment to community impact, responsible AI, and industry mentorship.
 
 ---
+### GLobee Awards Judge
 
-## 🎓 UWB Hacks: Save The World (ACM-affiliated)
+- **Role**: Judge for Globee Awards for Technology and Artificial Inteliigence
 
-- **Event**: UWB Hacks – Save The World!
+Certificate for Globee Awards for Technology: [Globee Awards Judge Certificate for Technology (https://credential.globeeawards.com/62627329-8fac-4147-9896-d67381c66552#acc.K0wHxqPm)]
+Certificate for Globee Awards for Technology: [Globee Awards Judge Certificate for Technology (https://pdf.credential.net/5zfhm3sz_1745901695599.pdf)]
+
+### UWB Hacks: Save The World (ACM-affiliated)
+
 - **Affiliation**: Organized by the UWB chapter of the Association for Computing Machinery (ACM), part of the University of Washington Bothell  
-- **Role**: Judge and Mentor  
+- **Role**: Grand Jury Judge 
 - **Scope**: Evaluated and guided socially impactful AI and tech solutions from university innovators  
 - **Official Event Page**: [https://uwb-hacks-save-the-world.devpost.com/](https://uwb-hacks-save-the-world.devpost.com/)
 
 ---
 
-## 🌐 Fetch.ai – Global AI Agents League
-
-- **Event**: Global AI Agents League – Innovation Lab  
-- **Host**: Fetch.ai  
+### Fetch.ai – Global AI Agents League
 - **Role**: Hackathon Judge  
 - **Scope**: Evaluated autonomous multi-agent systems and generative AI applications in finance, commerce, and sustainability  
 - **Official Event Page**: [https://innovationlab.fetch.ai/events/global-ai-agents-league](https://innovationlab.fetch.ai/events/global-ai-agents-league)
 
 ---
 
-## ✍️ Public Thought Leadership on LinkedIn
+## Public Thought Leadership on LinkedIn
 
 I regularly share applied AI insights and best practices through public writing. Below are two examples of my technical articles shared with the broader professional community:
 
-- [📚 4 Types of Memory in Agentic AI (STM, LTM, Episodic, Semantic)](https://www.linkedin.com/posts/activity-7311591374456332288-pmTT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKaigYBYG4T7qvUjWA97-RvYNa8X7NPCnU)
+- [MCP vs A2A — A Technical Breakdown for AI Engineers](https://www.linkedin.com/posts/activity-7317278930715963392-1V47?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKaigYBYG4T7qvUjWA97-RvYNa8X7NPCnU)
 
-- [🛠 No Fluff ML Series (Part 5/10): 6 Bad Practices in Managing Large-Scale ML Codebases](https://www.linkedin.com/posts/activity-7309328516909543426-tWDL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKaigYBYG4T7qvUjWA97-RvYNa8X7NPCnU)
+- [No Fluff ML Series (Part 5/10): 6 Bad Practices in Managing Large-Scale ML Codebases](https://www.linkedin.com/posts/activity-7309328516909543426-tWDL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKaigYBYG4T7qvUjWA97-RvYNa8X7NPCnU)
+
+
+## AI Literacy Advocacy for K–12 Education
+
+As part of my mission to democratize AI, I’ve engaged with educators and youth-focused professionals to advocate for **AI literacy and responsible AI education** in school curriculam — aiming to equip students early with the skills to build and use AI safely.
+
+- Promoted the inclusion of **AI-enabled coding**, **algorithmic thinking**, and **ethical AI principles** in K–12 learning environments.
+- Shared ideas for curriculum development that balance technical fluency with **transparency, fairness, and safety**.
+- I’ve had conversations with several educators and advocates, including:  
+  - Manmeet Khatri, Founder & Director, Maa Saraswati Coaching Centre,  STEM Teacher – Email: mailto:manmeetkhatri2307@gmail.com 
+  - Nimisha Chanda, Marketing Lead, Youth Education Advocate & Public Speaker – [email] | Linkedin (https://www.linkedin.com/in/nimisha-chanda/)
+
+This initiative aligns with my broader belief that **AI fluency should be as foundational as digital literacy** — empowering the next generation to engage meaningfully and responsibly with intelligent systems.
+
 
 ---
 
