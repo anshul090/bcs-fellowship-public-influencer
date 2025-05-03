@@ -6,15 +6,6 @@ As part of my broader contributions to the AI and technology community, I’ve s
 Below are a few recent examples of my public engagements, illustrating my ongoing commitment to community impact, responsible AI, and industry mentorship.
 
 ---
-#### Globee Awards Judge
-
-- **Role**: Judge for Globee Awards for two distinct events and categories  
-  1. Technology  
-  2. Artificial Intelligence
-
-
-Certificate for Globee Awards for Technology: [Globee Awards Judge Certificate for Technology (https://credential.globeeawards.com/62627329-8fac-4147-9896-d67381c66552#acc.K0wHxqPm)]
-Certificate for Globee Awards for Technology: [Globee Awards Judge Certificate for Technology (https://pdf.credential.net/5zfhm3sz_1745901695599.pdf)]
 
 #### UWB Hacks: Save The World (ACM-affiliated)
 - **Affiliation**: Organized by the UWB chapter of the Association for Computing Machinery (ACM), University of Washington Bothell
@@ -23,6 +14,16 @@ Certificate for Globee Awards for Technology: [Globee Awards Judge Certificate f
 - **Distinction**: Youngest member on the Grand Jury, alongside distinguished senior professionals from academia and industry
 - **Scope**: Judged and guided socially impactful AI and tech solutions addressing global challenges
 - **Event Page**: [https://uwb-hacks-save-the-world.devpost.com/](https://uwb-hacks-save-the-world.devpost.com/)
+
+
+#### Globee Awards Judge
+
+- **Role**: Judge for Globee Awards for two distinct events and categories  
+  1. Technology  
+  2. Artificial Intelligence
+
+- **Globee Awards for Technology:(Credential Site)**: [Globee Awards Judge Certificate – Technology](https://credential.globeeawards.com/62627329-8fac-4147-9896-d67381c66552#acc.K0wHxqPm)  
+- **Certificate (PDF)**: [Globee Awards Judge Certificate – Technology (PDF)](https://pdf.credential.net/5zfhm3sz_1745901695599.pdf)
 
 
 ---
