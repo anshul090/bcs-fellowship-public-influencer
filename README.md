@@ -36,21 +36,24 @@ Certificate for Globee Awards for Technology: [Globee Awards Judge Certificate f
 
 I regularly share applied AI insights and best practices through public writing. Below are two examples of my technical articles shared with the broader professional community:
 
-- [MCP vs A2A — A Technical Breakdown for AI Engineers](https://www.linkedin.com/posts/activity-7317278930715963392-1V47?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKaigYBYG4T7qvUjWA97-RvYNa8X7NPCnU)
+- [**MCP vs A2A — A Technical Breakdown for AI Engineers**](https://www.linkedin.com/posts/activity-7317278930715963392-1V47?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKaigYBYG4T7qvUjWA97-RvYNa8X7NPCnU)  
+  *(96K+ impressions, 420+ likes, 50+ reposts)*
 
-- [Push your AI beyond chat — turn it into an operator that gets real work done](https://www.linkedin.com/posts/activity-7318499109391278080-v6OE?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKaigYBYG4T7qvUjWA97-RvYNa8X7NPCnU)
+- [**Push your AI beyond chat — turn it into an operator that gets real work done**](https://www.linkedin.com/posts/activity-7318499109391278080-v6OE?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKaigYBYG4T7qvUjWA97-RvYNa8X7NPCnU)
 
 
 ## AI Literacy Advocacy for K–12 Education
 
-As part of my mission to democratize AI, I’ve engaged with educators and youth-focused professionals to advocate for **AI literacy and responsible AI education** in school curriculam — aiming to equip students early with the skills to build and use AI safely.
+As part of my mission to democratize AI, I’ve engaged with educators and youth-focused professionals to advocate for **AI literacy and responsible AI education** in school curricula — aiming to equip students early with the skills to build and use AI safely.
 
-- Promoted the inclusion of **AI-enabled coding**, **algorithmic thinking**, and **ethical AI principles** in K–12 learning environments.
-- Shared ideas for curriculum development that balance technical fluency with **transparency, fairness, and safety**.
-- Among the many I’ve engaged with, I’ve included three individuals here **who have provided written testimonials and can speak to my contributions in this space**:  
-  - Manmeet Khatri, Founder & Director, Maa Saraswati Coaching Centre,  STEM Teacher – Email: mailto:manmeetkhatri2307@gmail.com 
-  - Nimisha Chanda, Marketing Lead, Youth Education Advocate & Public Speaker –Email: mailto:
-     > Nimisha is also a prominent voice in youth education and mentorship, with **17K+ followers on LinkedIn**: [Nimisha Chanda](https://www.linkedin.com/in/nimisha-chanda/)
+- Promoted the inclusion of **AI-enabled coding**, **algorithmic thinking**, and **ethical AI principles** in K–12 learning environments  
+- Shared ideas for curriculum development that balance technical fluency with **transparency**, **fairness**, and **safety**  
+- Among the many I’ve engaged with, I’ve included three individuals here who have provided written testimonials and can speak to my contributions in this space:  
+  - **Manmeet Khatri**, Founder & Director, Maa Saraswati Coaching Centre – STEM Teacher – [manmeetkhatri2307@gmail.com](mailto:manmeetkhatri2307@gmail.com)  
+  - **Mehak Chopra**, Post Graduate Teacher (Commerce), St. Thomas School Faridabad – [email@example.com](mailto:email@example.com)  
+  - **Nimisha Chanda**, Marketing Lead, Youth Education Advocate & Public Speaker – [email@example.com](mailto:email@example.com)  
+    > Nimisha is also a prominent voice in youth education and mentorship, with **17K+ followers on LinkedIn**: [Nimisha Chanda](https://www.linkedin.com/in/nimisha-chanda/)
+
 
 
 View their testimonials here: [education-testimonials.md](./education_testimonials.md)
