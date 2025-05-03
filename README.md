@@ -14,7 +14,14 @@ Below are a few recent examples of my public engagements, illustrating my ongoin
 - **Distinction**: Youngest member on the Grand Jury, alongside distinguished senior professionals from academia and industry
 - **Scope**: Judged and guided socially impactful AI and tech solutions addressing global challenges
 - **Event Page**: [https://uwb-hacks-save-the-world.devpost.com/](https://uwb-hacks-save-the-world.devpost.com/)
+---
 
+#### Fetch.ai – Global AI Agents League
+- **Role**: Hackathon Judge  
+- **Scope**: Evaluated autonomous multi-agent systems and generative AI applications in finance, commerce, and sustainability  
+- **Official Event Page**: [https://innovationlab.fetch.ai/events/global-ai-agents-league](https://innovationlab.fetch.ai/events/global-ai-agents-league)
+
+---
 
 #### Globee Awards Judge
 
@@ -25,16 +32,7 @@ Below are a few recent examples of my public engagements, illustrating my ongoin
 - **Globee Awards for Technology:(Credential Site)**: [Globee Awards Judge Certificate – Technology](https://credential.globeeawards.com/62627329-8fac-4147-9896-d67381c66552#acc.K0wHxqPm)  
 - **Certificate (PDF)**: [Globee Awards Judge Certificate – Technology (PDF)](https://pdf.credential.net/5zfhm3sz_1745901695599.pdf)
 
-
 ---
-
-#### Fetch.ai – Global AI Agents League
-- **Role**: Hackathon Judge  
-- **Scope**: Evaluated autonomous multi-agent systems and generative AI applications in finance, commerce, and sustainability  
-- **Official Event Page**: [https://innovationlab.fetch.ai/events/global-ai-agents-league](https://innovationlab.fetch.ai/events/global-ai-agents-league)
-
----
-
 
 ## Public Thought Leadership and Media Features
 
