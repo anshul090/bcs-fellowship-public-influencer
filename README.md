@@ -67,7 +67,7 @@ As part of my mission to democratize AI, I’ve engaged with educators and youth
   - **Nimisha Chanda** – Marketing Lead, Youth Education Advocate & Public Speaker  
     > Nimisha is also a prominent voice in youth education and mentorship, with [17K+ followers on LinkedIn](https://www.linkedin.com/in/nimisha-chanda/)
 
-[Read their testimonials](./education-testimonials.md)
+[Read their testimonials](./education_testimonials.md)
 
 This initiative aligns with my belief that **AI fluency should be as foundational as digital literacy**, empowering the next generation to engage meaningfully and responsibly with intelligent systems.
 
