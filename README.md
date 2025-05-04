@@ -12,8 +12,6 @@ I’ve served as a judge and mentor at numerous public hackathons and innovation
 
 ---
 
----
-
 ## Public Thought Leadership & Media Features
 
 ### **Featured in Tech Times**  
@@ -32,8 +30,6 @@ I regularly share applied AI insights and best practices through public writing.
 
 ---
 
-
----
 
 ## Public Engagements
 
