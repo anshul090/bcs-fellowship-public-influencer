@@ -1,6 +1,16 @@
-# Anshul Gandhi – Public Engagement, Thought Leadership & AI Literacy
+# Anshul Gandhi – Public Influencer (Standing in the Community)
 
 As part of my broader contributions to the AI and technology community, I’ve served as a **judge and mentor** at numerous public hackathons and innovation events, alongside advocating for responsible AI and inclusive literacy.
+
+
+---
+## Global Recognition
+
+- **Global Recognition Award (2025)**  
+  Presented by the Global Recognition Awards™, this international honor acknowledges my contributions to AI innovation, ethical technology leadership, and public advocacy — including real-world impact across multiple industry domains, and leadership in generative AI, mentorship, and thought leadership.  
+  [Official Award Notification and Citation (PDF)](https://drive.google.com/file/d/1w8Teto4Jeb1CxLX4JhxsIk-s_qMBoHuD/view?usp=drive_link)
+
+---
 
 ---
 
@@ -57,10 +67,10 @@ As part of my mission to democratize AI, I’ve engaged with educators and youth
   - **Nimisha Chanda** – Marketing Lead, Youth Education Advocate & Public Speaker  
     > Nimisha is also a prominent voice in youth education and mentorship, with [17K+ followers on LinkedIn](https://www.linkedin.com/in/nimisha-chanda/)
 
-[Read their testimonials →](./education-testimonials.md)
+[Read their testimonials](./education-testimonials.md)
 
 This initiative aligns with my belief that **AI fluency should be as foundational as digital literacy**, empowering the next generation to engage meaningfully and responsibly with intelligent systems.
 
 ---
 
-These engagements reflect my commitment to responsible AI — including fairness, explainability, and scalable GenAI practices. Through judging roles in both industry and academia, public writing, and AI literacy advocacy, I’ve contributed to the broader professional discourse on how AI systems are designed, evaluated, and deployed in high-impact environments..
+These engagements reflect my commitment to responsible AI — including fairness, explainability, and scalable GenAI practices. Through judging roles in both industry and academia, public writing, AI literacy advocacy, and global recognition for thought leadership I’ve contributed to the broader professional discourse on how AI systems are designed, evaluated, and deployed in high-impact environments.
