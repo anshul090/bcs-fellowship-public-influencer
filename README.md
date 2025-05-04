@@ -12,7 +12,7 @@ I’ve served as a judge and mentor at numerous public hackathons and innovation
 
 ---
 
-## Public Thought Leadership & Media Features
+## Thought Leadership & Media Features
 
 ### **Featured in Tech Times**  
  *“In the Shadows of Innovation: How Anshul Gandhi's Work Is Revolutionizing AI and Machine Learning”*  
@@ -31,7 +31,7 @@ I regularly share applied AI insights and best practices through public writing.
 ---
 
 
-## Public Engagements
+## Industry Engagements
 
 ### UWB Hacks: Save The World (ACM-affiliated)
 - **Affiliation**: UWB chapter of the Association for Computing Machinery (ACM), University of Washington Bothell  
