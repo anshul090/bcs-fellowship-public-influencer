@@ -1,7 +1,7 @@
 # Anshul Gandhi – Public Influencer (Standing in the Community)
 
-As part of my broader contributions to the AI and technology community, I’ve served as a **judge and mentor** at numerous public hackathons and innovation events, alongside advocating for responsible AI and inclusive literacy.
-
+As part of my broader contributions to the AI and technology community —  I’ve received international recognition for innovation and ethical leadership — including a **Global Recognition Award (2025)** and a **featured media profile in _Tech Times_**.
+I’ve served as a judge and mentor at numerous public hackathons and innovation events, alongside advocating for responsible AI and inclusive literacy.
 
 ---
 ## Global Recognition
@@ -11,6 +11,27 @@ As part of my broader contributions to the AI and technology community, I’ve s
   [Official Award Notification and Citation (PDF)](https://drive.google.com/file/d/1w8Teto4Jeb1CxLX4JhxsIk-s_qMBoHuD/view?usp=drive_link)
 
 ---
+
+---
+
+## Public Thought Leadership & Media Features
+
+### **Featured in Tech Times**  
+ *“In the Shadows of Innovation: How Anshul Gandhi's Work Is Revolutionizing AI and Machine Learning”*  
+A full-length media profile spotlighting my work in responsible AI across cybersecurity, healthcare, and GenAI — combining real-world impact, ethical leadership, and mentorship at scale.
+
+📎 [Read the feature](https://www.techtimes.com/articles/310103/20250423/shadows-innovation-how-anshul-gandhis-work-revolutionizing-ai-machine-learning.htm)
+
+### **Recent Technical Articles**
+I regularly share applied AI insights and best practices through public writing. Two recent examples:
+
+- [**MCP vs A2A — A Technical Breakdown for AI Engineers**](https://www.linkedin.com/posts/activity-7317278930715963392-1V47)  
+  *(96K+ impressions, 420+ likes, 50+ reposts)*
+
+- [**Push your AI beyond chat — turn it into an operator that gets real work done**](https://www.linkedin.com/posts/activity-7318499109391278080-v6OE)
+
+---
+
 
 ---
 
@@ -36,25 +57,6 @@ As part of my broader contributions to the AI and technology community, I’ve s
 - **Credential (Technology)**: [Globee Awards Judge Certificate – Technology](https://credential.globeeawards.com/62627329-8fac-4147-9896-d67381c66552#acc.K0wHxqPm)  
 - **Supplementary Materials**: [Invitations & Certificate (PDF)](http://drive.google.com/file/d/121O3IjYk3hxIRCk_jy2ip-I2Td28uRT9/view)
 
----
-
-## Public Thought Leadership & Media Features
-
-### **Featured in Tech Times**  
- *“In the Shadows of Innovation: How Anshul Gandhi's Work Is Revolutionizing AI and Machine Learning”*  
-A full-length media profile spotlighting my work in responsible AI across cybersecurity, healthcare, and GenAI — combining real-world impact, ethical leadership, and mentorship at scale.
-
-📎 [Read the feature](https://www.techtimes.com/articles/310103/20250423/shadows-innovation-how-anshul-gandhis-work-revolutionizing-ai-machine-learning.htm)
-
-### **Recent Technical Articles**
-I regularly share applied AI insights and best practices through public writing. Two recent examples:
-
-- [**MCP vs A2A — A Technical Breakdown for AI Engineers**](https://www.linkedin.com/posts/activity-7317278930715963392-1V47)  
-  *(96K+ impressions, 420+ likes, 50+ reposts)*
-
-- [**Push your AI beyond chat — turn it into an operator that gets real work done**](https://www.linkedin.com/posts/activity-7318499109391278080-v6OE)
-
----
 
 ## AI Literacy Advocacy for K–12 Education
 
