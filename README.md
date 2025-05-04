@@ -63,7 +63,7 @@ As part of my mission to democratize AI, I’ve engaged with educators and youth
 - Promoted the inclusion of **AI-enabled coding**, **algorithmic thinking**, and **ethical AI principles** in K–12 learning  
 - Proposed curriculum models that balance technical fluency with **transparency, fairness, and safety**  
 - Among the many I’ve engaged with, two have provided written testimonials:
-  - **Manmeet Khatri** – Founder & Director, Maa Saraswati Coaching Centre – STEM Teacher ([manmeetkhatri2307@gmail.com](mailto:manmeetkhatri2307@gmail.com))  
+  - **Manmeet Khatri** – Founder & Director, Maa Saraswati Coaching Centre – STEM Expert ([manmeetkhatri2307@gmail.com](mailto:manmeetkhatri2307@gmail.com))  
   - **Nimisha Chanda** – Marketing Lead, Youth Education Advocate & Public Speaker  
     > Nimisha is also a prominent voice in youth education and mentorship, with [17K+ followers on LinkedIn](https://www.linkedin.com/in/nimisha-chanda/)
 
