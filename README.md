@@ -1,8 +1,5 @@
 # Anshul Gandhi – Public Influencer (Standing in the Community)
 
-As part of my broader contributions to the AI and technology community —  I’ve received international recognition for innovation and ethical leadership — including a **Global Recognition Award (2025)** and a **featured media profile in _Tech Times_**.
-I’ve served as a judge and mentor at numerous public hackathons and innovation events, alongside advocating for responsible AI and inclusive literacy.
-
 ---
 ## Global Recognition
 
