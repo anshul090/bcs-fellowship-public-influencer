@@ -40,6 +40,7 @@ I regularly share applied AI insights and best practices through public writing.
 - **Distinction**: Youngest member on the 6-person Grand Jury, alongside senior professionals from academia and industry  
 - **Scope**: Judged and mentored socially impactful AI and tech solutions addressing global challenges  
 - **Event Page**: [https://uwb-hacks-save-the-world.devpost.com/](https://uwb-hacks-save-the-world.devpost.com/)
+- **Certificate**: [Grand Jury Certificate](https://drive.google.com/file/d/1CKCxapvUS_ZBrztw93ZDzFqqKWPTl6Dq/view?usp=sharing)
 
 ### Fetch.ai – Global AI Agents League  
 - **Role**: Hackathon Judge  
