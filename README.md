@@ -53,7 +53,8 @@ I regularly share applied AI insights and best practices through public writing.
 - **Role**: Judge for two award categories:  
   1. **Technology**  
   2. **Artificial Intelligence**  
-- **Credential (Technology)**: [Globee Awards Judge Certificate – Technology](https://credential.globeeawards.com/62627329-8fac-4147-9896-d67381c66552#acc.K0wHxqPm)  
+- **Credential (Technology)**: [Globee Awards Judge Credential – Technology](https://credential.globeeawards.com/62627329-8fac-4147-9896-d67381c66552#acc.K0wHxqPm)
+- **Credential (Artificial Intelligence)**: [Globee Awards Judge Credential- Artificial Intelligence](https://credential.globeeawards.com/b1464ecd-e1e9-48da-ac80-e2a90a87ec66#acc.J3jycS1z) 
 - **Supplementary Materials**: [Invitations & Certificate (PDF)](http://drive.google.com/file/d/121O3IjYk3hxIRCk_jy2ip-I2Td28uRT9/view)
 
 
