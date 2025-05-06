@@ -5,7 +5,7 @@
 
 - **Global Recognition Award (2025)**  
   Presented by the Global Recognition Awards™, this international honor acknowledges my contributions to AI innovation, ethical technology leadership, and public advocacy — including real-world impact across multiple industry domains, and leadership in generative AI, mentorship, and thought leadership.  
-  [Official Award Notification and Citation (PDF)](https://drive.google.com/file/d/1w8Teto4Jeb1CxLX4JhxsIk-s_qMBoHuD/view?usp=drive_link)
+  [Official Award Notification and Citation (PDF)](https://drive.google.com/file/d/1WNYf5lPCE0rlKMohiQXvWWhQknOLcisR/view?usp=sharing)
 
 ---
 
